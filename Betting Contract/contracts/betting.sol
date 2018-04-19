@@ -3,8 +3,8 @@ pragma solidity 0.4.20;
 /*
 Group:
 
-Basil Abushama -- bshama@berkeley.edu -- 3031845454
-Uriel Rodriguez -- urodriguezg@berkeley.edu -- 24484915
+Basil Abushama -- bshama@berkeley.edu -- 
+Uriel Rodriguez -- urodriguezg@berkeley.edu -- 
 
 */
 
